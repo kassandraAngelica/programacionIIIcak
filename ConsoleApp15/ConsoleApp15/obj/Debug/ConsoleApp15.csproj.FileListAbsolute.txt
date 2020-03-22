@@ -1,0 +1,14 @@
+C:\Users\Kassandra\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Kassandra\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Kassandra\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Kassandra\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\Kassandra\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Kassandra\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Kassandra\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+E:\programacionIIIcak\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+E:\programacionIIIcak\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+E:\programacionIIIcak\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+E:\programacionIIIcak\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+E:\programacionIIIcak\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+E:\programacionIIIcak\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+E:\programacionIIIcak\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb

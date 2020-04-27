@@ -8,11 +8,11 @@ namespace ConsoleApp19
 {
     class Nodo
     {
-        public Infectados info;
+        public Infectado info;
         public Nodo Siguiente;
         public Nodo Anterior;
 
-        public Nodo(Infectados valor)
+        public Nodo(Infectado valor)
         {
             info = valor;
             Siguiente = null;
@@ -21,7 +21,7 @@ namespace ConsoleApp19
     class ListaDoble
     {
         public Nodo Actual;
-        public void Insertar(Infectados valor)
+        public void Insertar(Infectado valor)
         {
             Nodo nuevo = new Nodo(valor);
             if (Actual == null)

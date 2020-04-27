@@ -40,7 +40,7 @@ namespace ConsoleApp19
                         Console.WriteLine("introduzca estado de salud");
                         string estado = Console.ReadLine();
 
-                        Infectados a = new Infectados(nombre, segundoNombre, apellido, segundoApellido, edad, Sexo, estado);
+                        Infectado a = new Infectado(nombre, segundoNombre, apellido, segundoApellido, edad, Sexo, estado);
                         l.Insertar(a);
                         break;
                     case 2:

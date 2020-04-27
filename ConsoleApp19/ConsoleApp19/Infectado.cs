@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp19
 {
-    class Infectados
+    class Infectado
     {
-        public Infectados(string dnombre, string dsegundoNombre, string dapellido, string dsegundoApellido, int dedad, string dsexo, string destado)
+        public Infectado(string dnombre, string dsegundoNombre, string dapellido, string dsegundoApellido, int dedad, string dsexo, string destado)
         {
             nombre = dnombre;
             segundoNombre = dsegundoNombre;
             apellido = dapellido;
-            segundoNombre = dsegundoApellido;
+            segundoApellido = dsegundoApellido;
             edad = dedad;
             sexo = dsexo;
             estado = destado;
